@@ -68,7 +68,7 @@ education:
 experiences:
     - role: Backend Developer
       time: 2018 - Present
-      company: NovaPoshta, Ukraine
+      company: NovaPoshta, UKR
       details: |
         I'm working on creating a courier delivery service for the company 'Nova Poshta'
 
@@ -86,7 +86,7 @@ experiences:
 
     - role: Backend Developer
       time: 2017 - 2018
-      company: Pocket Doctor
+      company: Pocket Doctor, RUS
       details: |
         iOS, Android, Web applications which provide opportunity to get highly skilled consultation with any doctor at any time
 
@@ -103,7 +103,7 @@ experiences:
 
     - role: Backend Developer
       time: 2017 - 2017
-      company: AiZ
+      company: AiZ, SAU
       details: |
         REST API for iOS mobile application
 
@@ -115,7 +115,7 @@ experiences:
 
     - role: Backend Developer
       time: 2017 - 2017
-      company: Private person
+      company: Private person, CHN
       details: |
         A chatbot for a shipping company that helps its clients to order products
         from most popular American websites and delivers the purchases
@@ -130,7 +130,7 @@ experiences:
 
     - role: Backend Developer
       time: 2016 - 2017
-      company: TVISO
+      company: TVISO, ESP
       details: |
         Created a lot of web crawlers for the company(https://es.tviso.com)
         which works in VOD (video on demand) industry
@@ -140,7 +140,7 @@ experiences:
 
     - role: Backend Developer
       time: 2016 - 2016
-      company: TVISO
+      company: Private person, EST
       details: |
         It’s a chatbot for Instagram promotion business.
         The chatbot’s main feature was to process customer orders
@@ -153,7 +153,7 @@ experiences:
 
     - role: Backend Developer
       time: 2016 - 2016
-      company: TVISO
+      company: Private person, GBR
       details: |
         It’s an online social networking service. The service enables
         its users to define their social type based on their Twitter feed
@@ -164,7 +164,7 @@ experiences:
 
     - role: Backend Developer
       time: 2016 - 2016
-      company: TVISO
+      company: Private person, USA
       details: |
         I've created a simplified sustainability platform, that helps
         businesses measure, market and manages their company and product
@@ -174,34 +174,6 @@ experiences:
           - Express.js
           - Socket.io
           - RethinkDB
-
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
