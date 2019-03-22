@@ -3,198 +3,224 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Roman Maidanskyi
+    tagline: Node.js Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: maidanskiy.roman@gmail.com
+    linkedin: roman-maidanskiy
+    github: maidanskyi
+    twitter: '@Maidanskiy'
 
     languages:
-      - idiom: English
+      - idiom: Ukrainian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Pre-Intermediate
 
-      - idiom: Spanish
+      - idiom: Russian
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Chess
         link:
 
-      - item: Snowboarding
+      - item: Fishing
         link:
 
-      - item: Cooking
+      - item: Politics
+        link:
+
+      - item: Football
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I am a software developer with 3 years experience specializing in backend development.
+      Experienced with all stages of the development cycle for dynamic projects.
+      I'm a hardworking and dedicated person, love to explore, always have a big hunger for new knowledge.
+      I love to inspire other people around me and get inspired by them.
+      Realist for life.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: Bachelor's degree of mathematics
+      university: Vasyl Stefanyk Precarpathian National University
+      time: 2005 - 2010
+      details:
 
-          - Bullet point
-          - Bullet point
+    - degree: Python Basic
+      university: IT Cluster
+      time: 2017 - 2017
+      details:
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: DevOps Basic
+      university: IT Cluster
+      time: 2019 - 2019
+      details:
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Backend Developer
+      time: 2018 - Present
+      company: NovaPoshta, Ukraine
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        I'm working on creating a courier delivery service for the company 'Nova Poshta'
 
-          - Bullet point
-          - Bullet point
+          - Google Cloud Platform
+          - Kubernetes
+          - Docker
+          - MySQL
+          - Express
+          - Typescript
+          - Inversify
+          - RxJS
+          - Google Pub/Sub
+          - OSRM
+          - Lodash
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Backend Developer
+      time: 2017 - 2018
+      company: Pocket Doctor
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        iOS, Android, Web applications which provide opportunity to get highly skilled consultation with any doctor at any time
 
-          - Bullet point
-          - Bullet point
+          - Express
+          - Typescript
+          - MySQL
+          - Docker
+          - Kubernetes
+          - Minikube
+          - Kibana
+          - Grafana
+          - ElasticSearch
+          - Lodash
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Backend Developer
+      time: 2017 - 2017
+      company: AiZ
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        REST API for iOS mobile application
 
-          - Bullet point
-          - Bullet point
+          - Express
+          - Facebook API
+          - IBM Watson Personality Insights
+          - Heroku
+          - MongoDB
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    - role: Backend Developer
+      time: 2017 - 2017
+      company: Private person
+      details: |
+        A chatbot for a shipping company that helps its clients to order products
+        from most popular American websites and delivers the purchases
+        to their native country. The chatbot’s main feature was to process
+        customer orders using NLP (natural language processing)
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          - Smooch.io
+          - DialogFlow(API.ai)
+          - MongoDB
+          - ZincAPI
+          - AWS EC2
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Backend Developer
+      time: 2016 - 2017
+      company: TVISO
+      details: |
+        Created a lot of web crawlers for the company(https://es.tviso.com)
+        which works in VOD (video on demand) industry
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+          - PhantomJS
+          - CasperJS
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - role: Backend Developer
+      time: 2016 - 2016
+      company: TVISO
+      details: |
+        It’s a chatbot for Instagram promotion business.
+        The chatbot’s main feature was to process customer orders
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+          - Express.js
+          - Smooch.io
+          - Google API
+          - Facebook API
+          - PayPal
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    - role: Backend Developer
+      time: 2016 - 2016
+      company: TVISO
+      details: |
+        It’s an online social networking service. The service enables
+        its users to define their social type based on their Twitter feed
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+          - Express.js
+          - Twitter API
+          - Watson Personality Insights
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    - role: Backend Developer
+      time: 2016 - 2016
+      company: TVISO
+      details: |
+        I've created a simplified sustainability platform, that helps
+        businesses measure, market and manages their company and product
+        sustainability. The main feature of this project was to creating
+        waterfall effect for DB data. Thanks to RethinkDB and Socket.io that was easy
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+          - Express.js
+          - Socket.io
+          - RethinkDB
+
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Node.js & Express.js
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Typescript
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Relational database
+        level: 90%
 
-      - name: HTML5 & CSS
+      - name: RxJS
+        level: 90%
+
+      - name: Lodash
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
