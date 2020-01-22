@@ -66,19 +66,19 @@ education:
       details:
 
 experiences:
-  - role: Backend Developer
-    time: 2019 - Present
-    company: Newfire Partners, USA
-    details: |
-      Currently, I'm working with Node.js and GraphQL.
+    - role: Backend Developer
+      time: 2019 - Present
+      company: Newfire Partners, USA
+      details: |
+        Currently, I'm working with Node.js and GraphQL.
 
-      - AWS Cloud
-      - Docker
-      - PostgreSQL
-      - Typescript
-      - GraphQL
-      - Apollo
-      - Apollo Federation
+        - AWS Cloud
+        - Docker
+        - PostgreSQL
+        - Typescript
+        - GraphQL
+        - Apollo
+        - Apollo Federation
 
     - role: Backend Developer
       time: 2018 - 2019
