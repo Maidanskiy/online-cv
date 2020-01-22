@@ -66,11 +66,25 @@ education:
       details:
 
 experiences:
+  - role: Backend Developer
+    time: 2019 - Present
+    company: Newfire Partners, USA
+    details: |
+      Currently, I'm working with Node.js and GraphQL.
+
+      - AWS Cloud
+      - Docker
+      - PostgreSQL
+      - Typescript
+      - GraphQL
+      - Apollo
+      - Apollo Federation
+
     - role: Backend Developer
-      time: 2018 - Present
+      time: 2018 - 2019
       company: NovaPoshta, UKR
       details: |
-        I'm working on creating a courier delivery service for the company 'Nova Poshta'
+        I've created a courier delivery service for Nova Poshta company
 
           - Google Cloud Platform
           - Kubernetes
