@@ -22,7 +22,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Pre-Intermediate
+        level: Intermediate
 
       - idiom: Russian
         level: Professional
@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a software developer with 3 years experience specializing in backend development.
+      I am a software developer with 4 years experience specializing in backend development.
       Experienced with all stages of the development cycle for dynamic projects.
       I'm a hardworking and dedicated person, love to explore, always have a big hunger for new knowledge.
       I love to inspire other people around me and get inspired by them.
@@ -72,7 +72,8 @@ experiences:
       details: |
         Currently, I'm working with Node.js and GraphQL.
 
-        - AWS Cloud
+        - AWS App Sync
+        - AWS Lambda
         - Docker
         - PostgreSQL
         - Typescript
@@ -84,7 +85,7 @@ experiences:
       time: 2018 - 2019
       company: NovaPoshta, UKR
       details: |
-        I've created a courier delivery service for Nova Poshta company
+        I was working on the creation of courier delivery service for Nova Poshta company
 
           - Google Cloud Platform
           - Kubernetes
