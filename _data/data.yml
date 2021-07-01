@@ -68,9 +68,11 @@ education:
 experiences:
     - role: Backend Developer
       time: 2020 - Present
-      company: Avenga
+      company: Avenga, RMarkBio project
       details: |
-        Currently, I'm working with Node.js and GraphQL, REST API.
+        It is a health care project.
+        I'm working with Node.js and GraphQL, REST API.
+        I'm responsible for FTS search on this project (Postgres, CouchbaseDB).
 
         - Heroku
         - Docker
