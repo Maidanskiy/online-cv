@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a software developer with 4 years experience specializing in backend development.
+      I am a software developer with 4 years of experience specializing in backend development.
       Experienced with all stages of the development cycle for dynamic projects.
       I'm a hardworking and dedicated person, love to explore, always have a big hunger for new knowledge.
       I love to inspire other people around me and get inspired by them.
@@ -67,10 +67,24 @@ education:
 
 experiences:
     - role: Backend Developer
-      time: 2019 - Present
+      time: 2020 - Present
+      company: Avenga
+      details: |
+        Currently, I'm working with Node.js and GraphQL, REST API.
+
+        - Heroku
+        - Docker
+        - PostgreSQL
+        - Couchbase DB
+        - Full Text Search
+        - Typescript
+        - GraphQL
+
+    - role: Backend Developer
+      time: 2019 - 2020
       company: Newfire Partners, USA
       details: |
-        Currently, I'm working with Node.js and GraphQL.
+        On this project I worked with Node.js and GraphQL
 
         - AWS App Sync
         - AWS Lambda
